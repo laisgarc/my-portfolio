@@ -1,0 +1,20 @@
+
+.description { 
+    font-size: 20px;
+}
+.menu {
+    align-items: center;
+    background: #5E6472;
+    border: 0px;
+    color: #B8F2E6;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    height: 60px;
+    justify-content: center;
+    width: 100%;
+}
+
+button.menu:focus {
+    outline: none;
+}

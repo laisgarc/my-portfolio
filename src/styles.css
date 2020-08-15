@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Raleway';
+    src: local('Raleway'), url(./fonts/Raleway/Raleway-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat'), url(./fonts/Montserrat/Montserrat-Regular.ttf) format('truetype');
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+
+body {
+    background: #FAF3DD;
+    color: #333;
+    font-family: 'Montserrat', sans-serif;
+}

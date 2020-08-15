@@ -1,0 +1,29 @@
+header#main-header {
+    align-items: center;
+    background: #5E6472;
+    color: #B8F2E6;
+    cursor: default;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+    font-size: 58px;
+    font-style: italic;
+    font-weight: bolder;
+    height: 100px;
+    justify-content: center;
+    text-shadow: 1px 1px #FFA69E, 
+                2px 2px #FFA69E, 
+                3px 3px #FFA69E;
+    width: 100%;
+}
+
+header#main-header p:hover { 
+    position: relative; 
+   top: -3px; 
+   left: -3px; 
+   text-shadow: 1px 1px #FFA69E, 
+                2px 2px #FFA69E, 
+                3px 3px #FFA69E, 
+                4px 4px #FFA69E, 
+                5px 5px #FFA69E, 
+                6px 6px #FFA69E;
+}
