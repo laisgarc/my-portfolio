@@ -20,7 +20,7 @@ class Menu extends React.Component {
                             <p class="m-0 px-3 pt-1 d-flex row menu text-center">Information systems graduation student at USP - 19 years old - Self-taught Blender 3D artist</p>
                         </div>
                         <div class="col d-block m-0 px-0 mb-2 mt-n2">
-                            <div class="ml-0 mr-0 px-0 mb-n1 d-flex menu"><a href="https://instagram.com/laisgarc" target="_blank" class="pr-1">Instagram </a> - <a href="https://www.linkedin.com/in/la%C3%ADs-g-679a92136/" target="_blank" class="pl-1"> LinkedIn</a></div>
+                            <div class="ml-0 mr-0 px-0 mb-n1 d-flex menu"><a href="https://instagram.com/laisgarc" target="_blank" rel="noopener noreferrer" class="pr-1">Instagram </a> - <a href="https://www.linkedin.com/in/la%C3%ADs-g-679a92136/" target="_blank" rel="noopener noreferrer" class="pl-1"> LinkedIn</a></div>
                         </div>
                     </div>
                 </Accordion.Collapse>
