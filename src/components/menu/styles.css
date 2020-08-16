@@ -18,3 +18,12 @@
 button.menu:focus {
     outline: none;
 }
+
+.menu a {
+    color: #B8F2E6;
+    text-decoration: none;
+}
+.menu a:hover {
+    color: #B8F2E6;
+    text-decoration: none;
+}
